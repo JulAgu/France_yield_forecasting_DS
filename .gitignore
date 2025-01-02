@@ -1,0 +1,4 @@
+# src/ directory #
+src/
+# directory to temporarily store intermediary representations of the data #
+inter_data/
